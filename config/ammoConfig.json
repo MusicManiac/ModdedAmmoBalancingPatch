@@ -1,0 +1,503 @@
+{
+	"ammos": {
+		"lyconoxps12sabotid": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 2500,
+			"fleaPrice": 4000,
+			"spawnRelativeProbability" : {
+				"5cadf6eeae921500134b2799" : 0.7
+			}
+		},
+		"ExtraAmmo_762x35_Blackfang": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 2000,
+			"fleaPrice": 2000,
+			"spawnRelativeProbability" : {
+				"5fd20ff893a8961fc660a954" : 0.9
+			}
+		},
+		"ExtraAmmo_762x35_MAI_AP": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 2500,
+			"fleaPrice": 2500,
+			"spawnRelativeProbability" : {
+				"5fd20ff893a8961fc660a954" : 0.85
+			}
+		},
+		"ExtraAmmo_86x70_7n45": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 6700,
+			"fleaPrice": 6700,
+			"spawnRelativeProbability" : {
+				"5fc382a9d724d907e2077dab" : 1.15
+			}
+		},
+		"ExtraAmmo_86x70_API526": {
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 4100,
+			"fleaPrice": 4100,
+			"spawnRelativeProbability" : {
+				"5fc382a9d724d907e2077dab" : 1.5
+			}
+		},
+		"ExtraAmmo_1143x23_VBR": {
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 600,
+			"fleaPrice": 600,
+			"spawnRelativeProbability" : {
+				"5efb0cabfb3e451d70735af5" : 1.7
+			}
+		},
+		"ExtraAmmo_46x30_SFN_31_RAM": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 1800,
+			"fleaPrice": 1800,
+			"spawnRelativeProbability" : {
+				"5ba26835d4351e0035628ff5" : 0.95
+			}
+		},
+		"ExtraAmmo_545x39_7n24M": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 1200,
+			"fleaPrice": 1200,
+			"spawnRelativeProbability" : {
+				"56dff026d2720bb8668b4567" : 1.05
+			}
+		},
+		"ExtraAmmo_545x39_7n10M": {
+			"spawnRelativeProbability" : {
+				"56dff2ced2720bb4668b4567" : 0.95
+			}
+		},
+		"ExtraAmmo_545x39_7n6M": {
+			"spawnRelativeProbability" : {
+				"56dff3afd2720bba668b4567" : 1
+			}
+		},
+		"ExtraAmmo_545x39_7T3M": {
+			"spawnRelativeProbability" : {
+				"56dff0bed2720bb0668b4567" : 1
+			}
+		},
+		"ExtraAmmo_556x45_DM11A1": {
+			"spawnRelativeProbability" : {
+				"54527a984bdc2d4e668b4567" : 0.9
+			}
+		},
+		"ExtraAmmo_556x45_M193": {
+			"spawnRelativeProbability" : {
+				"54527a984bdc2d4e668b4567" : 0.7
+			}
+		},
+		"ExtraAmmo_556x45_DM31": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 900,
+			"fleaPrice": 900,
+			"spawnRelativeProbability" : {
+				"54527ac44bdc2d36668b4567" : 1
+			}
+		},
+		"ExtraAmmo_556x45_MAI_AP": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 1800,
+			"fleaPrice": 1800,
+			"spawnRelativeProbability" : {
+				"54527ac44bdc2d36668b4567" : 1
+			}
+		},
+		"ExtraAmmo_556x45_MK262": {
+			"handbookPrice": 900,
+			"fleaPrice": 900,
+			"spawnRelativeProbability" : {
+				"59e68f6f86f7746c9f75e846" : 1
+			}
+		},
+		"ExtraAmmo_556x45_SS109": {
+			"spawnRelativeProbability" : {
+				"54527a984bdc2d4e668b4567" : 1
+			}
+		},
+		"ExtraAmmo_556x45_B2_PF": {
+			"spawnRelativeProbability" : {
+				"59e6918f86f7746c9f75e849" : 0.7
+			}
+		},
+		"ExtraAmmo_57x28_T6B": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 2400,
+			"fleaPrice": 2400,
+			"spawnRelativeProbability" : {
+				"5cc80f38e4a949001152b560" : 0.8
+			}
+		},
+		"ExtraAmmo_57x28_B2_PF": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 1700,
+			"fleaPrice": 1700,
+			"spawnRelativeProbability" : {
+				"5cc80f38e4a949001152b560" : 1
+			}
+		},
+		"ExtraAmmo_57x28_V57": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 2600,
+			"fleaPrice": 2600,
+			"spawnRelativeProbability" : {
+				"5cc80f38e4a949001152b560" : 0.6
+			}
+		},
+		"ExtraAmmo_762x25tt_P41": {
+			"handbookPrice": 600,
+			"fleaPrice": 600,
+			"spawnRelativeProbability" : {
+				"573601b42459776410737435" : 0.8
+			}
+		},
+		"ExtraAmmo_762x25tt_Type_P": {
+			"spawnRelativeProbability" : {
+				"573601b42459776410737435" : 0.4
+			}
+		},
+		"ExtraAmmo_762x25tt_THV": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 1300,
+			"fleaPrice": 1300,
+			"spawnRelativeProbability" : {
+				"573601b42459776410737435" : 0.5
+			}
+		},
+		"ExtraAmmo_762x39_7n23_01": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 1900,
+			"fleaPrice": 1900,
+			"spawnRelativeProbability" : {
+				"59e0d99486f7744a32234762" : 1
+			}
+		},
+		"ExtraAmmo_762x39_Type56": {
+			"spawnRelativeProbability" : {
+				"64b7af5a8532cf95ee0a0dbd" : 1
+			}
+		},
+		"ExtraAmmo_762x39_M67": {
+			"handbookPrice": 700,
+			"fleaPrice": 700,
+			"spawnRelativeProbability" : {
+				"5656d7c34bdc2d9d198b4587" : 1
+			}
+		},
+		"ExtraAmmo_762x51_M80A1_EPR": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 1900,
+			"fleaPrice": 1900,
+			"spawnRelativeProbability" : {
+				"5a6086ea4f39f99cd479502f" : 1
+			}
+		},
+		"ExtraAmmo_762x51_M62A1": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"ChangeTraderPrice": {
+				"58330581ace78e27b8b10cee": 1300
+			},
+			"handbookPrice": 1300,
+			"fleaPrice": 1300,
+			"spawnRelativeProbability" : {
+				"58dd3ad986f77403051cba8f" : 0.8
+			}
+		},
+		"ExtraAmmo_762x51_MK316_mod0": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"ChangeTraderPrice": {
+				"58330581ace78e27b8b10cee": 1500
+			},
+			"handbookPrice": 1500,
+			"fleaPrice": 1500,
+			"spawnRelativeProbability" : {
+				"5a608bf24f39f98ffc77720e" : 0.7
+			}
+		},
+		"ExtraAmmo_762x51_MK319_mod0": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"ChangeTraderPrice": {
+				"58330581ace78e27b8b10cee": 1100
+			},
+			"handbookPrice": 1100,
+			"fleaPrice": 1100,
+			"spawnRelativeProbability" : {
+				"5a608bf24f39f98ffc77720e" : 1
+			}
+		},
+		"ExtraAmmo_762x51_7n43": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 1900,
+			"fleaPrice": 1900,
+			"spawnRelativeProbability" : {
+				"5a6086ea4f39f99cd479502f" : 1
+			}
+		},
+		"ExtraAmmo_762x51_CBJ": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 2300,
+			"fleaPrice": 2300,
+			"spawnRelativeProbability" : {
+				"5a6086ea4f39f99cd479502f" : 1
+			}
+		},
+		"ExtraAmmo_762x51_MAI_AP": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 2200,
+			"fleaPrice": 2200,
+			"spawnRelativeProbability" : {
+				"5a6086ea4f39f99cd479502f" : 1
+			}
+		},
+		"noodal_762_duds": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"spawnRelativeProbability" : {
+				"5efb0c1bd79ff02a1f5e68d9" : 0.7
+			}
+		},
+		"ExtraAmmo_762x54r_7n1M": {
+			"ChangeTraderPrice": {
+				"58330581ace78e27b8b10cee": 900
+			},
+			"handbookPrice": 900,
+			"fleaPrice": 2000,
+			"spawnRelativeProbability" : {
+				"59e77a2386f7742ee578960a" : 1
+			}
+		},
+		"ExtraAmmo_762x54r_7T2M1": {
+			"ChangeTraderPrice": {
+				"58330581ace78e27b8b10cee": 900
+			},
+			"handbookPrice": 900,
+			"fleaPrice": 2000,
+			"spawnRelativeProbability" : {
+				"59e77a2386f7742ee578960a" : 1
+			}
+		},
+		"ExtraAmmo_762x54r_7n13_01": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"ChangeTraderPrice": {
+				"58330581ace78e27b8b10cee": 1900
+			},
+			"handbookPrice": 1800,
+			"fleaPrice": 1800,
+			"spawnRelativeProbability" : {
+				"5e023d34e8a400319a28ed44" : 1
+			}
+		},
+		"ExtraAmmo_762x54r_7n26": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 2000,
+			"fleaPrice": 2000,
+			"spawnRelativeProbability" : {
+				"5e023d34e8a400319a28ed44" : 0.7
+			}
+		},
+		"ExtraAmmo_762x54r_7n41": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 2400,
+			"fleaPrice": 2400,
+			"spawnRelativeProbability" : {
+				"560d61e84bdc2da74d8b4571" : 0.8
+			}
+		},
+		"ExtraAmmo_762x54r_7BZ3": {
+			"ChangeTraderPrice": {
+				"58330581ace78e27b8b10cee": 1900
+			},
+			"handbookPrice": 1800,
+			"fleaPrice": 1800,
+			"spawnRelativeProbability" : {
+				"5887431f2459777e1612938f" : 0.8
+			}
+		},
+		"ExtraAmmo_762x54r_MAI_AP": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 2400,
+			"fleaPrice": 2400,
+			"spawnRelativeProbability" : {
+				"5e023d48186a883be655e551" : 0.7
+			}
+		},
+		"ExtraAmmo_9x19_M1152": {
+			"ChangeTraderPrice": {
+				"58330581ace78e27b8b10cee": 100
+			},
+			"handbookPrice": 100,
+			"fleaPrice": 290,
+			"spawnRelativeProbability" : {
+				"56d59d3ad2720bdb418b4577" : 1
+			}
+		},
+		"ExtraAmmo_9x19_M1153": {
+			"ChangeTraderPrice": {
+				"58330581ace78e27b8b10cee": 700
+			},
+			"handbookPrice": 700,
+			"fleaPrice": 700,
+			"spawnRelativeProbability" : {
+				"5efb0e16aeb21837e749c7ff" : 0.8
+			}
+		},
+		"ExtraAmmo_9x19_7n21_03": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"ChangeTraderPrice": {
+				"58330581ace78e27b8b10cee": 600
+			},
+			"handbookPrice": 400,
+			"fleaPrice": 400,
+			"spawnRelativeProbability" : {
+				"5c925fa22e221601da359b7b" : 1
+			}
+		},
+		"ExtraAmmo_9x19_7n30": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"ChangeTraderPrice": {
+				"58330581ace78e27b8b10cee": 800
+			},
+			"handbookPrice": 400,
+			"fleaPrice": 400,
+			"spawnRelativeProbability" : {
+				"5efb0da7a29a85116f6ea05f" : 0.5
+			}
+		},
+		"ExtraAmmo_9x19_7n31M": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"handbookPrice": 1100,
+			"fleaPrice": 1100,
+			"spawnRelativeProbability" : {
+				"5efb0da7a29a85116f6ea05f" : 1
+			}
+		},
+		"ExtraAmmo_9x19_VBR": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"ChangeTraderPrice": {
+				"58330581ace78e27b8b10cee": 750
+			},
+			"handbookPrice": 400,
+			"fleaPrice": 400,
+			"spawnRelativeProbability" : {
+				"5c925fa22e221601da359b7b" : 0.7
+			}
+		},
+		"ExtraAmmo_9x21_7n42": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"spawnRelativeProbability" : {
+				"5a26ac0ec4a28200741e1e18" : 0.9
+			}
+		},
+		"ExtraAmmo_9x21_7BT3_01": {
+			"CanRequireOnRagfair": false,
+			"CanSellOnRagfair": false,
+			"RemoveFromTraders": [
+				"58330581ace78e27b8b10cee"
+			],
+			"spawnRelativeProbability" : {
+				"5a26ac0ec4a28200741e1e18" : 0.9
+			}
+		}
+	}
+}
