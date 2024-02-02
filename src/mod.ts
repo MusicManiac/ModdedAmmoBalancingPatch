@@ -149,23 +149,28 @@ class ModdedAmmoBalancingPatch implements IPostDBLoadMod
 										if (newAmmo !== originId) {
 											const lootComposedKey = newAmmo +"_composedkey"
 											const originalItemID = itm._id;
+											const originalStack = itm.upd.StackObjectsCount;
 											let originRelativeProb: any;
 											for (const dist of point.itemDistribution) {
 												if (dist.composedKey.key == originalItemID) {
 													originRelativeProb = dist.relativeProbability;
 													point.template.Items.push({
 														_id: lootComposedKey,
-														_tpl: newAmmo
+														_tpl: newAmmo,
+														upd: {
+															StackObjectsCount : originalStack
+														}
 													})
+													point.itemDistribution.push({
+														composedKey: {
+															key: lootComposedKey
+														},
+														relativeProbability: Math.max(Math.round(originRelativeProb * ammosToAddToLootTables[originId][newAmmo]), 1)
+													})
+													mapSpawns++;
+													logger.warning(`[${this.modShortName}] found originId ${originId} in map ${name} in spawn point ${JSON.stringify(point)}`);
 												}
 											}
-											point.itemDistribution.push({
-												composedKey: {
-													key: lootComposedKey
-												},
-												relativeProbability: Math.max(Math.round(originRelativeProb * ammosToAddToLootTables[originId][newAmmo]), 1)
-											})
-											mapSpawns++;
 										}
 									}
 								}
