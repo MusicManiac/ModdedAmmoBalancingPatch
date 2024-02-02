@@ -168,7 +168,7 @@ class ModdedAmmoBalancingPatch implements IPostDBLoadMod
 														relativeProbability: Math.max(Math.round(originRelativeProb * ammosToAddToLootTables[originId][newAmmo]), 1)
 													})
 													mapSpawns++;
-													logger.warning(`[${this.modShortName}] found originId ${originId} in map ${name} in spawn point ${JSON.stringify(point)}`);
+													//logger.warning(`[${this.modShortName}] found originId ${originId} in map ${name} in spawn point ${JSON.stringify(point)}`);
 												}
 											}
 										}
